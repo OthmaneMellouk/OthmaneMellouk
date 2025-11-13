@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/othmane-mellouk-b48a3b374/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Othmane%20Mellouk-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <br>
   <a href="mailto:othmanemellouk2003@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-othmanemellouk2003@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
